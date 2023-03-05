@@ -2,7 +2,7 @@
   @font-face{
     font-family: '汉仪新蒂唐朝体';
     
-    src: url('/font/汉仪新蒂唐朝体.ttf') format("truetype");
+    src: url('\hexo\blog\blog\themes\butterfly\source\diy-font\汉仪新蒂唐朝体.ttf') format("truetype");
 }
 
 body {
